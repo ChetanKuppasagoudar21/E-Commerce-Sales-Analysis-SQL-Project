@@ -79,7 +79,7 @@ Add more advanced SQL queries
 Include data visualization
 
 👨‍💻 Author
-Manikya
+Chetan
 Aspiring Data Analyst passionate about SQL, Data Analytics, and Business Intelligence.
 
 🔗 Connect With Me
